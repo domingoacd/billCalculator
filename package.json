@@ -1,0 +1,22 @@
+{
+  "name": "billcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domingoacd/billCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domingoacd/billCalculator/issues"
+  },
+  "homepage": "https://github.com/domingoacd/billCalculator#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
